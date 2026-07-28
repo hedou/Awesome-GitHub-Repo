@@ -169,6 +169,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 - [3DCellForge](https://github.com/huangserva/3DCellForge) - AI 驱动的交互式 3D 模型生成、检查和展示工作室。
 - [financial-services](https://github.com/anthropics/financial-services) - Anthropic 官方金融 AI 落地方案。
 - [MiniCPM-V-Apps](https://github.com/OpenBMB/MiniCPM-V-Apps) - 面壁智能 1.3B 参数多模态模型，所有手机都能跑，智能密度极高。
+- [ArcOffice](https://github.com/Arc-River/ArcOffice) - 基于 OnlyOffice 和 Claude AI 的全能办公套件，本地优先，支持文档编辑、AI 对话和批量任务处理。
 
 ## 信息获取
 
