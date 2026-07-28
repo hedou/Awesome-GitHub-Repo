@@ -64,6 +64,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 
 ### AI Agent
 
+- [ARCC](https://github.com/niyongsheng/arcc) - Rust 构建的本地优先 AI 智能体，支持 MCP/ACP 协议，提供 CLI/TUI/Server 三种运行模式，内置安全引擎与 SQLite 持久化，兼容 DeepSeek/Claude/OpenAI。
 - [Lumi](https://github.com/Wechat-ggGitHub/Lumi) - 住在你 macOS 菜单栏的语音 AI 助手，语音优先交互，随时唤醒。
 - [Claude-Flow](https://github.com/ruvnet/claude-flow) - 专为 Claude 生态打造的 Agent 编排平台，支持部署智能多 Agent 群、协调自主工作流、构建对话式 AI 系统，可与企业级架构和 RAG 集成，原生支持 Claude Code / Codex。
 - [Agency-Agents](https://github.com/msitarzewski/agency-agents) - 55个专业AI角色组成的虚拟公司，包含工程师、设计师、市场等9个部门的结构化Prompt文件，可集成Claude Code作为通用Prompt模板使用。
@@ -169,7 +170,6 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 - [3DCellForge](https://github.com/huangserva/3DCellForge) - AI 驱动的交互式 3D 模型生成、检查和展示工作室。
 - [financial-services](https://github.com/anthropics/financial-services) - Anthropic 官方金融 AI 落地方案。
 - [MiniCPM-V-Apps](https://github.com/OpenBMB/MiniCPM-V-Apps) - 面壁智能 1.3B 参数多模态模型，所有手机都能跑，智能密度极高。
-- [ArcOffice](https://github.com/Arc-River/ArcOffice) - 基于 OnlyOffice 和 Claude AI 的全能办公套件，本地优先，支持文档编辑、AI 对话和批量任务处理。
 
 ## 信息获取
 
